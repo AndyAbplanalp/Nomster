@@ -35,7 +35,7 @@ gem 'will_paginate'
 
 gem "simple_form"
 
-gem 'devise'
+gem 'devise', ">= 3.2.4"
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
